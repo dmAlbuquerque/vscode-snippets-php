@@ -1,0 +1,23 @@
+{
+	"php_simple": {
+		"prefix": "phps",
+		"body": [
+			"<?php $1 ?>"
+		],
+		"description": "Simple autocomplete of opening and closing PHP TAGS"
+	},
+	"php_echo": {
+		"prefix": "phpe",
+		"body": [
+			"<?php echo $1 ?>"
+		],
+		"description": "PHP autocomplete of opening and closing PHP TAGS with echo"
+	},
+	"php_echo_simple": {
+		"prefix": "php=",
+		"body": [
+			"<?=$1?>"
+		],
+		"description": "Simple autocomplete of opening and closing PHP tags with echo"
+	}
+}

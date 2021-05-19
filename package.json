@@ -1,0 +1,31 @@
+{
+    "name": "vscode-snippets-php",
+    "displayName": "Snippets PHP",
+    "description": "This project provides a set of snippets or shortcuts to speed up programming with the opening and closing of PHP tags.",
+    "version": "0.0.1",
+    "publisher": "Daniel Albuquerque",
+    "icon": "images/icon.png",
+    "galleryBanner": {
+        "color": "#5DD4F4",
+        "theme": "dark"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/macleysousa/vscode-snippets-react-native"
+    },
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "PHP",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
