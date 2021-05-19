@@ -12,7 +12,7 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/macleysousa/vscode-snippets-react-native"
+        "url": "https://github.com/dmAlbuquerque/vscode-snippets-php"
     },
     "engines": {
         "vscode": "^1.56.0"
