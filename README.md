@@ -1,65 +1,36 @@
-# vscode-snippets-php README
+# React Native Snippets
+## About the Project
+This project provides a set of snippets or shortcuts to speed up programming with the opening and closing of PHP tags.
 
-This is the README for your extension "vscode-snippets-php". After writing up a brief description, we recommend including the following sections.
+## Begin
+### Installation
+To install an extension you can run ** Command Pallete ** using the command Ctrl + Shift + P or Cmd + Shift + P, type Install Extensions and finally give an Enter.
 
-## Features
+Supported Languages
+- PHP
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+### How to use?
+When you install the Extension the development in React Native will be much more fun.
 
-For example if there is an image subfolder under your extension project workspace:
+<img src="https://github.com/dmAlbuquerque/vscode-snippets-php/blob/main/images/demo.gif?raw=true" alt="Demonstrating Snippets" style="max-width:100%;">
 
-\!\[feature X\]\(images/feature-x.png\)
+Create React Native Component
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+### Snippets
+Below is the list of all available Snippets:
 
-## Requirements
+phps →	Creates **<?php ?>**
+phpe →	Creates **<?php echo ?>**
+php= →	Creates **<?=?>**
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+## Contribution
+Contributions are what make the open source community an incredible place to learn, inspire and create. Any contribution you make will be ** much appreciated **.
 
-## Extension Settings
-
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
-
-For example:
-
-This extension contributes the following settings:
-
-* `myExtension.enable`: enable/disable this extension
-* `myExtension.thing`: set to `blah` to do something
-
-## Known Issues
-
-Calling out known issues can help limit users opening duplicate issues against your extension.
-
-## Release Notes
-
-Users appreciate release notes as you update your extension.
-
-### 1.0.0
-
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
-
------------------------------------------------------------------------------------------------------------
-
-## Working with Markdown
-
-**Note:** You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-### For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+Fork the project
+Create a Branch for your Feature (git checkout -b feature / FeatureAwasome)
+Add your changes (git add .)
+Commit your changes (git commit -m 'Adding an awesome Feature!)
+Push the Branch (git push origin feature / FeatureAwasome)
+Open a Pull Request
+##License
+Distributed under the MIT license. See LICENSE for more information.
