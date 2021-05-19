@@ -16,21 +16,20 @@ When you install the Extension the development in React Native will be much more
 
 
 ### Snippets
-Below is the list of all available Snippets:
-
-phps →	Creates **<?php ?>**
-phpe →	Creates **<?php echo ?>**
-php= →	Creates **<?=?>**
+Below is the list of all available Snippets:<br>
+phps →	Creates **<?php ?>**<br>
+phpe →	Creates **<?php echo ?>**<br>
+php= →	Creates **<?=?>**<br>
 
 ## Contribution
 Contributions are what make the open source community an incredible place to learn, inspire and create. Any contribution you make will be **much appreciated**.
 
-Fork the project
-Create a Branch for your Feature (git checkout -b feature / FeatureAwasome)
-Add your changes (git add .)
-Commit your changes (git commit -m 'Adding an awesome Feature!)
-Push the Branch (git push origin feature / FeatureAwasome)
-Open a Pull Request
+Fork the project<br>
+Create a Branch for your Feature (git checkout -b feature / FeatureAwasome)<br>
+Add your changes (git add .)<br>
+Commit your changes (git commit -m 'Adding an awesome Feature!)<br>
+Push the Branch (git push origin feature / FeatureAwasome)<br>
+Open a Pull Request<br>
 
 ## License
 Distributed under the MIT license. See LICENSE for more information.
