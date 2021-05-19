@@ -3,7 +3,7 @@
     "displayName": "Snippets PHP",
     "description": "This project provides a set of snippets or shortcuts to speed up programming with the opening and closing of PHP tags.",
     "version": "0.0.1",
-    "publisher": "Daniel Albuquerque",
+    "publisher": "dmalbuquerque",
     "icon": "images/icon.png",
     "galleryBanner": {
         "color": "#5DD4F4",
