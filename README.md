@@ -17,9 +17,9 @@ When you install the Extension the development in React Native will be much more
 
 ### Snippets
 Below is the list of all available Snippets:<br>
-phps →	Creates **<?php ?>**<br>
-phpe →	Creates **<?php echo ?>**<br>
-php= →	Creates **<?=?>**<br>
+phps →	Creates ``` <?php ?> ``` <br>
+phpe →	Creates ``` <?php echo ?> ``` <br>
+php= →	Creates ``` <?=?> ``` <br>
 
 ## Contribution
 Contributions are what make the open source community an incredible place to learn, inspire and create. Any contribution you make will be **much appreciated**.
