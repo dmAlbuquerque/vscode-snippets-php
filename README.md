@@ -1,4 +1,4 @@
-# React Native Snippets
+# PHP Snippets
 ## About the Project
 This project provides a set of snippets or shortcuts to speed up programming with the opening and closing of PHP tags.
 
