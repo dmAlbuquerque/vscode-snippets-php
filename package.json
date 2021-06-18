@@ -2,7 +2,7 @@
     "name": "vscode-snippets-php",
     "displayName": "Snippets PHP",
     "description": "This project provides a set of snippets or shortcuts to speed up programming with the opening and closing of PHP tags.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "dmalbuquerque",
     "icon": "images/icon.png",
     "galleryBanner": {
@@ -27,5 +27,11 @@
                 "path": "./snippets/snippets.code-snippets"
             }
         ]
+    },
+    "dependencies": {
+        "code": "^5.2.4",
+        "generator-code": "^1.5.1",
+        "vsce": "^1.93.0",
+        "yo": "^4.2.0"
     }
 }
